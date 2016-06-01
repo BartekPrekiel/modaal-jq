@@ -1,0 +1,69 @@
+body img {
+	width: 200px;
+	height: 200px;
+	padding-right: 90px;
+}
+
+body p{
+	padding-top: 30px;
+}
+
+#wrapper {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#validatie {
+	width: 50%;
+	margin: 0 auto;
+	padding: 100px;
+}
+
+#ingang img {
+	width: 400px;
+	height: 400px;
+	padding-left: 100px;
+}
+
+#hal img {
+	width: 400px;
+	height: 400px;
+	padding-left: 150px;
+
+}
+
+#patroon img {
+	width: 400px;
+	height: 400px;
+	padding-left: 50px;
+
+}
+
+#validatie img {
+	width: 100px;
+	height: 50px;
+}
+
+img:hover, .sluit-knop:hover {
+	cursor: pointer;
+}
+
+.modaal-venster {
+	background-color: rgba(30,30,30,0.5);
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+}
+
+.modaal-inhoud{
+	background-color: white;
+	padding: 20px;
+	position: fixed;
+	width: 450px;
+}
+
+
+
+
+
